@@ -1,0 +1,20 @@
+{
+  "name": "react-flickity-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "flickity": "^2.2.1",
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-flickity-component": "^3.3.2"
+  }
+}
