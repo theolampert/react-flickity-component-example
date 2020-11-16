@@ -15,6 +15,6 @@
     "next": "^9.0.6",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-flickity-component": "^3.3.2"
+    "react-flickity-component": "^3.6.0"
   }
 }
